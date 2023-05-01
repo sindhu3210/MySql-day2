@@ -1,0 +1,13 @@
+-- create database HeroVired;
+-- create table rgm1(
+-- student_id int primary key not null,
+-- Name varchar(20) not null,
+-- College varchar(30),
+-- Session varchar(20),
+-- Contact_num int,
+-- Address varchar(50)
+-- );
+-- INSERT INTO rgm1 VALUES ( 200,"honey","rgm","python",6304,"ndl"),(201,"sindhu","rgm","sql",23241,"ndl"),(202,"fasee","rgm","c++",32334,"knl");
+-- INSERT INTO rgm1 VALUES ( 203,"buela","rgm","python",6204,"ndl"),(204,"chandi","rgm","sql",22241,"ndl"),(205,"harshi","rgm","c++",31334,"knl");
+-- INSERT INTO rgm1 VALUES ( 206,"sana","rgm","python",6224,"ndl"),(207,"pravallika","rgm","sql",2241,"ndl"),(208,"janu","rgm","c++",32334,"knl");
+-- INSERT INTO rgm1 VALUES ( 209,"ssss","rgm","c",6202,"ndl")
